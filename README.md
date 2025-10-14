@@ -8,7 +8,7 @@ My research interests include the following:
 - Computational Linguistics (specifically neural net. interpretation)
 - Ethical LLM usage in linguistics
 
-If you would like to contact me, please e-mail: I[dot]C[dot]A[dot]carslaw@sms[dot]ed[dot]ac[dot]uk
+If you would like to contact me, please e-mail: I.C.A.Carslaw@sms.ed.ac.uk
 
 # Publications
 
@@ -31,8 +31,17 @@ PhD - CDT in NLP at the University of Edinburgh (Current)
 1st class MSc - Speech and Language Processing at the University of Edinburgh (2021-2022)
 Dissertation: "Low resource neural machine translation and generalised compositionality" 
 
-1st class BA (Hons) - Linguistics at UCL (2017 - 2021)
+1st class BA (Hons) - Linguistics at UCL (2017-2021)
 Dissertation: "Parasitic Gaps: can they really be accounted for by sideward movement?" 
+
+# Teaching and Academic Volunteering 
+
+I tutor on the following courses taught at the University of Edinburgh:
+
+- Linguistics and English Language 1A
+- Linguistics and English Language 1B
+
+I also ran CLING (a commputational linguistics reading group) from 2024-2025, and was on the organising committee for Language Lunch (an informal poster session for language related research by the postgrad community at Edinburgh) from 2023-2024.
 
 
 Disclaimer: _I do not give permission for this webpage to be data scraped nor do I give permission for any of the information on this page to be used in the process of training an LLM or ML model._
