@@ -23,4 +23,4 @@ Dissertation: "Low resource neural machine translation and generalised compositi
 Dissertation: "Parasitic Gaps: can they really be accounted for by sideward movement?" 
 
 
-Disclaimer: _I do not give permission for this webpage to be data scraped nor do I give permission for any of the information on this page to be used as training data for any LLM/ML model._
+Disclaimer: _I do not give permission for this webpage to be data scraped nor do I give permission for any of the information on this page to be used in the process of training an LLM or ML model._
