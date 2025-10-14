@@ -6,14 +6,14 @@ Carslaw, I., Milton, S., Navarre, N., Qing, C. & Uegaki, W., (2025) “Automatic
 # Talks
 ---
 
-"LLMs and Reflexive Binding" at _North East Syntax Seminar_ the University of Aberdeen (June, 2024)
+"LLMs and Reflexive Binding" at _North East Syntax Seminar_ (the University of Aberdeen - June, 2024)
 
 # Posters
 ---
 
-"The Inherent-Structural Case Divide: An investigation into German morphological case representation" at _LELPGC_ the University of Edinburgh (June, 2025)
+"The Inherent-Structural Case Divide: An investigation into German morphological case representation" at _LELPGC_ (the University of Edinburgh - June, 2025)
 
-"LLMs and Reflexive Binding Intuitions: Do LLMs encode native speakers’ reflexive binding intuitions?" at _the Form-meaning Mismatches in Spoken and Visual Communication Summer School_ the University of Göttingen (August, 2024)
+"LLMs and Reflexive Binding Intuitions: Do LLMs encode native speakers’ reflexive binding intuitions?" at _the Form-meaning Mismatches in Spoken and Visual Communication Summer School_ (the University of Göttingen - August, 2024)
 
 # Education
 ---
