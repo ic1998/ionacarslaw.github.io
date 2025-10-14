@@ -41,7 +41,7 @@ I tutor on the following courses taught at the University of Edinburgh:
 - Linguistics and English Language 1A
 - Linguistics and English Language 1B
 
-I also ran CLING (a commputational linguistics reading group) from 2024-2025, and was on the organising committee for Language Lunch (an informal poster session for language related research by the postgrad community at Edinburgh) from 2023-2024.
+I also ran CLING (a computational linguistics reading group) from 2024-2025, and was on the organising committee for Language Lunch (an informal poster session for language related research by the postgrad community at Edinburgh) from 2023-2024.
 
 
 Disclaimer: _I do not give permission for this webpage to be data scraped nor do I give permission for any of the information on this page to be used in the process of training an LLM or ML model._
