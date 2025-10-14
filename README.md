@@ -1,3 +1,15 @@
+# About 
+
+I'm a PhD researcher, currently at the University of Edinburgh, supervised by [Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/), [Itamar Kastner](https://blogs.ed.ac.uk/itamar/), and [András Bárány](https://andras.barany.at). 
+
+My research interests include the following: 
+- Case Theory
+- Argument Structure
+- Computational Linguistics (specifically neural net. interpretation)
+- Ethical LLM usage in linguistics
+
+If you would like to contact me, please e-mail: I[dot]C[dot]A[dot]carslaw@sms[dot]ed[dot]ac[dot]uk
+
 # Publications
 
 Carslaw, I., Milton, S., Navarre, N., Qing, C. & Uegaki, W., (2025) “Automatic Extraction of Clausal Embedding Based on Large-Scale English Text Data”, Society for Computation in Linguistics 8(1): 12. doi: [https://doi.org/10.7275/scil.3151](https://doi.org/10.7275/scil.3151)
