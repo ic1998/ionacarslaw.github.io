@@ -27,10 +27,10 @@ Carslaw, I., Milton, S., Navarre, N., Qing, C. & Uegaki, W., (2025) “Automatic
 
 PhD - CDT in NLP at the University of Edinburgh (Current)
 
-1st class MSc - Speech and Language Processing at the University of Edinburgh (2021-2022)
+1st class MSc - Speech and Language Processing at the University of Edinburgh (2021-2022).
 Dissertation: "Low resource neural machine translation and generalised compositionality" 
 
-1st class BA (Hons) - Linguistics at UCL (2017-2021)
+1st class BA (Hons) - Linguistics at UCL (2017-2021).
 Dissertation: "Parasitic Gaps: can they really be accounted for by sideward movement?" 
 
 # Teaching and Academic Volunteering 
