@@ -1,6 +1,6 @@
 # About 
 
-I'm a PhD researcher, currently at the University of Edinburgh, supervised by [Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/), [Itamar Kastner](https://blogs.ed.ac.uk/itamar/), and [András Bárány](https://andras.barany.at). 
+I'm a PhD researcher at the University of Edinburgh, currently being supervised by [Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/), [Itamar Kastner](https://blogs.ed.ac.uk/itamar/), and [András Bárány](https://andras.barany.at). 
 
 My research interests include the following: 
 - Case Theory
