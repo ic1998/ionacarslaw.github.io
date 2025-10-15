@@ -8,7 +8,6 @@ My research interests include the following:
 - Computational Linguistics (specifically neural net. interpretation)
 - Ethical LLM usage in linguistics
 
-If you would like to contact me, please e-mail: I.C.A.Carslaw@sms.ed.ac.uk
 
 # Publications
 
