@@ -19,6 +19,8 @@ Carslaw, I., Milton, S., Navarre, N., Qing, C. & Uegaki, W., (2025) “Automatic
 
 # Talks
 
+"LLMs hinder Linguistic Decolonisation" at [_LAGB_](https://www.lagb.org.uk) (the University of Edinburgh - September 2026)
+
 "LLMs hinder Linguistic Decolonisation" at [_SLE_](https://societaslinguistica.eu) (the University of Osnabrück - August 2026)
 
 "LLMs hinder Linguistic Decolonisation" at [_LELPGC_](https://pgc.lel.ed.ac.uk) (the University of Edinburgh - June 2026)
